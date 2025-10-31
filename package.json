@@ -1,5 +1,15 @@
 {
+  "name": "portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Portfólio estático servido via Express",
+  "scripts": {
+    "start": "node server.js"
+  },
   "dependencies": {
     "express": "^5.1.0"
+  },
+  "engines": {
+    "node": ">=18"
   }
 }
